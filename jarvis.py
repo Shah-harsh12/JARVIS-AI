@@ -125,6 +125,6 @@ if __name__ == '__main__':
                 cv2.imshow("video_live", video_data)
                 if cv2.waitKey(10) == ord("a") :
                     break
-
+#press a to stop the video
             video_cap.release() 
         
