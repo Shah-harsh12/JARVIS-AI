@@ -127,7 +127,4 @@ if __name__ == '__main__':
                     break
 
             video_cap.release() 
-    #  elif 'fuck you' in query:
-    #      speak("chup ho ja madarchod")
-     elif 'fuck your mum' in query:
-         speak("shut up you motherfucker or i will fuck your mom so hard infront of you and you will not able to do anything")         
+        
